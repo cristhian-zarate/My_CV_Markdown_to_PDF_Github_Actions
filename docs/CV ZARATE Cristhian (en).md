@@ -12,7 +12,7 @@
 
 * 5+ years of experience with Microsoft .NET technologies
 * Solid knowledge of relational databases (SQL Server)
-* Great knowledge of JavaScript / Typescript
+* Great knowledge of JavaScript and TypeScript
 * Experience working in multidisciplinary teams
 
 <br/>
