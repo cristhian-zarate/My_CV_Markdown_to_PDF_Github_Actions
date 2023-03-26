@@ -22,7 +22,7 @@ jobs:
           images_dir: docs/images
           image_import: ./images
           build_html: false
-          theme: styles/theme.css
+          theme: docs/styles/theme.css
       - uses: actions/upload-artifact@v1
         with:
           name: docs
