@@ -1,1 +1,3 @@
-# My_CV_Markdown_to_PDF_Github_Actions
+# My CV
+
+Generate a PDF file from a file written in Markdown using Github Actions.
