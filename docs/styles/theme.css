@@ -1,0 +1,28 @@
+@import "https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap";
+@import "https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap";
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  width: 8.5in;
+}
+
+h1 {
+  border-bottom: none;
+}
+
+h2 {
+  font-family: 'PT Serif', serif;
+}
+
+img {
+  height: 20px;
+  width: 20px;
+}
+
+table {
+  width: 100%;
+}
+
+.centered {
+  text-align: center;
+}
